@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Jerry",
+    "managerId": 0
+  },
+  {
+    "id": 2,
+    "name": "Stacie",
+    "managerId": 1
+  },
+  {
+    "id": 3,
+    "name": "Tom",
+    "managerId": 2
+  },
+  {
+    "id": 4,
+    "name": "Mike",
+    "managerId": 3
+  },
+  {
+    "id": 5,
+    "name": "John",
+    "managerId": 4
+  },
+  {
+    "id": 6,
+    "name": "Alice",
+    "managerId": 3
+  },
+  {
+    "id": 7,
+    "name": "Key",
+    "managerId": 2
+  },
+  {
+    "id": 8,
+    "name": "Peter",
+    "managerId": 7
+  },
+  {
+    "id": 9,
+    "name": "David",
+    "managerId": 2
+  },
+  {
+    "id": 10,
+    "name": "Philip",
+    "managerId": 1
+  }
+]
